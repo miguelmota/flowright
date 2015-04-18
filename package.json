@@ -1,0 +1,31 @@
+{
+  "name": "flowright",
+  "version": "0.0.1",
+  "description": "Function composition from right to left.",
+  "main": "flowright.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/flowright"
+  },
+  "keywords": [
+    "function",
+    "compose",
+    "flow",
+    "backflow"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/flowright/issues"
+  },
+  "homepage": "https://github.com/miguelmota/flowright",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
