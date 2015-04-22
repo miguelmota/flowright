@@ -2,6 +2,8 @@
 
 Function composition from right to left.
 
+[![NPM](https://nodei.co/npm/is-typedarray.png)](https://nodei.co/npm/is-typedarray/)
+
 # Install
 
 ```bash
