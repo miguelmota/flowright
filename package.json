@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "./node_modules/tape/bin/tape test/*.js"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
     "url": "https://github.com/miguelmota/flowright/issues"
   },
   "homepage": "https://github.com/miguelmota/flowright",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^3.0.3"
   }
 }
