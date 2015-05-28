@@ -2,6 +2,8 @@ var test = require('tape');
 var flowRight = require('../flowright');
 
 test('flowright', function (t) {
+  'use strict';
+
   t.plan(3);
 
   function square(n) {
